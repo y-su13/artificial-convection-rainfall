@@ -1,0 +1,14 @@
+# 运行产物
+__pycache__/
+*.py[cod]
+
+# 算例输出：快照、日志、图片
+*.npz
+*.log
+*.png
+!docs/**/*.png
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
